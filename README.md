@@ -2,7 +2,7 @@ Authors: Antonio Marino, Zach Glaser, and Hugh Shanno
 
 Project: Christofides Serdyukov Algorithm Implementation for Rainbow International Route Scheduling
 
-This Zip file contains the following:
+This folder contains the following:
 
 README.txt: this readme
 Main.py: a python file that contains the algorithm
