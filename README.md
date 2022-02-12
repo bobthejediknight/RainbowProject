@@ -1,6 +1,7 @@
 Authors: Antonio Marino, Zach Glaser, and Hugh Shanno
 
 # Project: Christofides Serdyukov Algorithm Implementation for Rainbow International Route Scheduling
+<img width="844" alt="Screen Shot 2022-02-12 at 12 06 01 AM" src="https://user-images.githubusercontent.com/17751446/153699354-f6df49bc-f136-45d0-9bfe-17f3a7cede9a.png">
 
 This folder contains the following:
 
