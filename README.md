@@ -1,6 +1,6 @@
 Authors: Antonio Marino, Zach Glaser, and Hugh Shanno
 
-Project: Christofides Serdyukov Algorithm Implementation for Rainbow International Route Scheduling
+# Project: Christofides Serdyukov Algorithm Implementation for Rainbow International Route Scheduling
 
 This folder contains the following:
 
@@ -27,27 +27,27 @@ To perform the Christofides algorithm, graphs must be complete (every node must 
 
 Running Instructions:
 
-#Step 1: 
+## Step 1: 
 
 Fill out the addresses.txt file with a list of addresses of the job sites you want to visit along with the description of the current equipment at that site. Make sure to end the file with a single blank line.
 
-#Step 2: 
+## Step 2: 
 
 Run AddressesToCoordinates.py by typing "python3 AddressesToCoordinates.py". 
 
-#Step 3: 
+## Step 3: 
 
 Any address for which geopy is unable to find the coordinates will produce coordinates of the following form: "ManuallyFill, ManuallyFill". This means that you need to go on google maps, type in the address of the job site and drop a pin near that address in order to get its coordinates. Make sure to end the file with a single blank line.
 
-#Step 4: 
+## Step 4: 
 
 Run PreprocessRoutes.py by typing "python3 PreprocessRoutes.py", and you will see an ordered list of the route you should take. This route is within 1.5 times the optimal route through the job sites.
 
-#Step 5: 
+## Step 5: 
 
 Run main.py by typing "python3 main.py", and you will see an ordered list of the route you should take. This route is within 1.5 times the optimal route through the job sites.
 
-#Step 6: 
+## Step 6: 
 
 Now, You can type "python3 interactiveMap.py", and you will see a map of the route you should take. This route is within 1.5 times the optimal route through the job sites.
 
