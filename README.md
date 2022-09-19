@@ -52,3 +52,6 @@ Run main.py by typing "python3 main.py", and you will see an ordered list of the
 
 Now, You can type "python3 interactiveMap.py", and you will see a map of the route you should take. This route is within 1.5 times the optimal route through the job sites.
 
+## References:
+
+He, Xiaozheng (Sean). (Accessed 2021). Road map of the Twin Cities network | Download Scientific Diagram. ResearchGate. https://www.researchgate.net/figure/Road-map-of-the-Twin-Cities-network_fig1_267375753.
